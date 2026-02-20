@@ -3,8 +3,9 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.13-363636?logo=solidity)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-Testing-yellow)](https://hardhat.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Built in](https://img.shields.io/badge/Built%20in-2025-blue)](https://github.com/yuzgecoguz/oracle-manipulation-attack-demo)
 
-> End-to-end demonstration of a flash loan oracle manipulation attack on a DeFi lending protocol, with full Hardhat test suite.
+> End-to-end demonstration of a flash loan oracle manipulation attack on a DeFi lending protocol, with full Hardhat test suite. Developed in **2025** as part of MSc Cyber Security research.
 
 ## The Attack: 2 ETH In, 4.8 ETH Out
 
