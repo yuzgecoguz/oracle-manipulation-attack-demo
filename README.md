@@ -153,9 +153,12 @@ oracle-manipulation-attack-demo/
 └── package.json
 ```
 
-## Related
+## Related Projects
 
-- [ethereum-smart-contract-security-audit](https://github.com/yuzgecoguz/ethereum-smart-contract-security-audit) — Comprehensive benchmark of 5 vulnerability detection tools
+- [crypto-exchange-connector-library](https://github.com/yuzgecoguz/crypto-exchange-connector-library) — Unified adapter framework for 50+ exchanges (2025)
+- [crypto-triangular-arbitrage-engine](https://github.com/yuzgecoguz/crypto-triangular-arbitrage-engine) — 30-40ms triangular arbitrage engine (2022)
+- [funding-rate-arbitrage-scanner](https://github.com/yuzgecoguz/funding-rate-arbitrage-scanner) — Delta-neutral funding rate strategy (2025)
+- [ethereum-smart-contract-security-audit](https://github.com/yuzgecoguz/ethereum-smart-contract-security-audit) — Vulnerability detection benchmark across 47,000+ contracts (2025)
 
 ## License
 
